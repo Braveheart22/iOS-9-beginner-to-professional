@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myLittleMonster/ViewController.swift"
+            timestampString = "487800618.674025"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myLittleMonster.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; myLittleMonster.ViewController"
+                  moduleName = "myLittleMonster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jeanne/Desktop/Projects/myLittleMonster/myLittleMonster/ViewController.swift"
+                  timestampString = "487796966.969433"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myLittleMonster.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;myLittleMonster.ViewController&gt;"
+                  moduleName = "myLittleMonster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jeanne/Desktop/Projects/myLittleMonster/myLittleMonster/ViewController.swift"
+                  timestampString = "487796966.969575"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
